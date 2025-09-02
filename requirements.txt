@@ -1,0 +1,5 @@
+Django>=4.2
+psycopg2-binary>=2.9
+djangorestframework>=3.14
+python-telegram-bot>=20.0
+SQLAlchemy>=2.0
